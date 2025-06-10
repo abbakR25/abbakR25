@@ -33,7 +33,7 @@ I'm an aspiring **ethical hacker** and **cybersecurity enthusiast** focused on o
 ## 🚀 Let's Connect
 
 - 💼 Looking for **remote junior cybersecurity roles**, internships, or bug bounty teams
-- 📫 Reach me on: [LinkedIn](https://linkedin.com/in/your-link) (replace with your real profile)
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - 📂 Portfolio: [abbakR25 on GitHub](https://github.com/abbakR25)
 
 ---
