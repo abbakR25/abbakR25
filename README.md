@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abba (abbakR25)
+# 👋 Hi there, I'm Abubakar Zakari Usman (abbakR25)
 
 I'm an aspiring **ethical hacker** and **cybersecurity enthusiast** focused on offensive security, penetration testing, and automation. I'm building hands-on skills by solving real-world security labs, automating recon tasks, and sharing my journey through writeups and reports.
 
