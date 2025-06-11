@@ -23,7 +23,7 @@ I'm an aspiring **ethical hacker** and **cybersecurity enthusiast** focused on o
 
 ## 🎓 Learning & Certifications
 
-- 🧠 TryHackMe: [Your THM Profile URL]
+- 🧠 TryHackMe: (https://tryhackme.com/p/abbakR25)
 - 🔓 Hack The Box: [Your HTB Profile URL]
 - 🛡️ OSCP – In progress (or planning to start)
 - 📜 Security+ – Studying (optional, if true)
