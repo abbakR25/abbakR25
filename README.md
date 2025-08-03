@@ -6,7 +6,7 @@ I'm an aspiring **ethical hacker** and **cybersecurity enthusiast** focused on o
 
 ## 🛠️ Skills & Tools
 
-- 🔍 Penetration Testing, Bug Bounty, Red Team Tactics
+- 🔍 Penetration Testing, Bug Bounty, 
 - 🧰 Tools: Nmap, Burp Suite, Nikto, Gobuster, Metasploit, wfuzz, sqlmap
 - 💻 Languages: Python, Bash, Markdown
 - 📡 Platforms: TryHackMe, Hack The Box, DVWA
