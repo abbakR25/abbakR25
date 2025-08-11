@@ -34,9 +34,9 @@ I excel at **building robust systems** and **empowering others to use them effec
 
 ## 📫 Let’s Connect  
 
-- **LinkedIn:** [https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)  
-- **Email:** johndoe@example.com  
-- **Portfolio:** [https://johndoe.dev](https://johndoe.dev)  
+- **LinkedIn:** [https://www.linkedin.com/in/abubakar-zakari-usman-86b765247/)  
+- **Email:** abubakarxx12@gmail.com  
+- **Portfolio:** https://github.com/abbakR25/abbakR25/edit/main/README.md  
 
 ---
 
