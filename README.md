@@ -1,40 +1,44 @@
-# 👋 Hi there, I'm Abubakar Zakari Usman (abbakR25)
+# Hi there, I'm ABUBAKAR ZAKARI USMAN 👋
 
-I'm an aspiring **ethical hacker** and **cybersecurity enthusiast** focused on offensive security, penetration testing, and automation. I'm building hands-on skills by solving real-world security labs, automating recon tasks, and sharing my journey through writeups and reports.
+## 🚀 About Me  
+With over a decade of **software development** experience and two years as an **Admin & Trainer** for a school software platform, I bring a unique mix of deep technical expertise and people-focused leadership.  
 
----
-
-## 🛠️ Skills & Tools
-
-- 🔍 Penetration Testing, Bug Bounty, 
-- 🧰 Tools: Nmap, Burp Suite, Nikto, Gobuster, Metasploit, wfuzz, sqlmap
-- 💻 Languages: Python, Bash, Markdown
-- 📡 Platforms: TryHackMe, Hack The Box, DVWA
+I excel at **building robust systems** and **empowering others to use them effectively** — bridging the gap between complex architectures and real-world usability.
 
 ---
 
-## 📁 Featured Repositories
+## 💻 Technical Skills  
 
-- 📚 [CTF Writeups](https://github.com/abbakR25/ctf-writeups) – My learning journey through TryHackMe, HackTheBox, and PicoCTF
-- ⚙️ [ReconBot](https://github.com/abbakR25/reconbot) – Custom automation script for recon and enumeration
-- 📄 [Pentest Reports](https://github.com/abbakR25/sample-pentest-reports) – Sample reports based on labs and simulations
-
----
-
-## 🎓 Learning & Certifications
-
-- 🧠 TryHackMe: (https://tryhackme.com/p/abbakR25)
-- 🔓 Hack The Box:(https://account.hackthebox.com/dashboard/abbakR25)
-- 📜 Security+ – Studying 
+- **Programming & Development:** Java, Backend Development, System Architecture  
+- **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)  
+- **Systems & Tools:** Linux Administration, Shell Scripting, Git & GitHub (basic to advanced)  
+- **Cybersecurity:** Principles, best practices, and secure system design  
 
 ---
 
-## 🚀 Let's Connect
+## 🌟 What Sets Me Apart  
 
-- 💼 Looking for **remote junior cybersecurity roles**, internships, or bug bounty teams
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- 📂 Portfolio: [abbakR25 on GitHub](https://github.com/abbakR25)
+- **Hybrid Strength:** Equal comfort in **hands-on coding** and **team training/mentoring**  
+- **Translating Complexity:** Turning technical processes into practical, user-friendly solutions  
+- **Security-Minded:** Building and maintaining systems with cybersecurity at the forefront  
 
 ---
 
-🛡️ *“Hack to learn, not to harm.”*
+## 📂 Highlight Projects  
+
+- [School Management System Optimizer](https://github.com/johndoe/school-management-optimizer) — Enhanced system efficiency and trained end-users for seamless adoption.  
+- [Secure Cloud Deployment Toolkit](https://github.com/johndoe/secure-cloud-deployment) — Automated multi-cloud infrastructure deployment with security best practices.  
+- [Java Utility Library](https://github.com/johndoe/java-utility-library) — Reusable utilities to speed up backend development.
+
+---
+
+## 📫 Let’s Connect  
+
+- **LinkedIn:** [https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)  
+- **Email:** johndoe@example.com  
+- **Portfolio:** [https://johndoe.dev](https://johndoe.dev)  
+
+---
+
+> _"I believe technology should be as powerful behind the scenes as it is intuitive on the surface."_  
+
